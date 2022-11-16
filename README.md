@@ -34,7 +34,7 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
+<img width="1438" alt="Screen Shot 2022-11-16 at 11 57 52 AM" src="https://user-images.githubusercontent.com/61368028/202281733-72dea75f-673a-4490-8ff8-baec4ebc50ee.png">
 
-<img width="1440" alt="Screen Shot 2022-11-15 at 10 30 50 PM" src="https://user-images.githubusercontent.com/61368028/202281633-0638cc23-1d72-4f64-8fc6-90ac2874f91a.png">
 
 
